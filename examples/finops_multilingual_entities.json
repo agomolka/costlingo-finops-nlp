@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "name": "analytics-prod プロジェクト",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17509843,
+      "mentions": [
+        {
+          "text": {
+            "content": "analytics-prod プロジェクト",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Query",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1599058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Query",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "費用",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13782462,
+      "mentions": [
+        {
+          "text": {
+            "content": "費用",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "asia-northeast1",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1194939,
+      "mentions": [
+        {
+          "text": {
+            "content": "asia-northeast1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "予算",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11357992,
+      "mentions": [
+        {
+          "text": {
+            "content": "予算",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FinOps チーム",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.077782266,
+      "mentions": [
+        {
+          "text": {
+            "content": "FinOps チーム",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "必要",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076256946,
+      "mentions": [
+        {
+          "text": {
+            "content": "必要",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "未使用リソース",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07136873,
+      "mentions": [
+        {
+          "text": {
+            "content": "未使用リソース",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "クエリ",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06868936,
+      "mentions": [
+        {
+          "text": {
+            "content": "クエリ",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "ja"
+}

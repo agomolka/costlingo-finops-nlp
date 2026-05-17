@@ -1,0 +1,11 @@
+name	type	salience	wikipedia_url
+Project analytics	OTHER	0.41923222	
+budget alert	OTHER	0.19708478	
+costs	OTHER	0.1374015	
+BigQuery	OTHER	0.08173408	https://en.wikipedia.org/wiki/BigQuery
+queries	OTHER	0.04871007	
+Data Platform	OTHER	0.03694875	
+reservations	OTHER	0.033008322	
+query optimization	OTHER	0.033008322	
+team	ORGANIZATION	0.012871949	
+42	NUMBER	0	

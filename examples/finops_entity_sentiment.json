@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4206223,
+      "mentions": [
+        {
+          "text": {
+            "content": "performance",
+            "beginOffset": 9
+          },
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "name": "BigQuery",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/BigQuery",
+        "mid": "/m/0g5s7gf"
+      },
+      "salience": 0.2395048,
+      "mentions": [
+        {
+          "text": {
+            "content": "BigQuery",
+            "beginOffset": 0
+          },
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "name": "storage costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15867302,
+      "mentions": [
+        {
+          "text": {
+            "content": "storage costs",
+            "beginOffset": 39
+          },
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "name": "Engine instances",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10570069,
+      "mentions": [
+        {
+          "text": {
+            "content": "Engine instances",
+            "beginOffset": 83
+          },
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "name": "use discount recommendation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03895311,
+      "mentions": [
+        {
+          "text": {
+            "content": "use discount recommendation",
+            "beginOffset": 133
+          },
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": 0.5
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036546085,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 112
+          },
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "language": "en"
+}

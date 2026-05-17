@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "name": "Project analytics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41923222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Project analytics",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "budget alert",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19708478,
+      "mentions": [
+        {
+          "text": {
+            "content": "budget alert",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1374015,
+      "mentions": [
+        {
+          "text": {
+            "content": "costs",
+            "beginOffset": 94
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BigQuery",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0g5s7gf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/BigQuery"
+      },
+      "salience": 0.08173408,
+      "mentions": [
+        {
+          "text": {
+            "content": "BigQuery",
+            "beginOffset": 69
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "queries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04871007,
+      "mentions": [
+        {
+          "text": {
+            "content": "queries",
+            "beginOffset": 192
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Data Platform",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03694875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Data Platform",
+            "beginOffset": 139
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reservations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033008322,
+      "mentions": [
+        {
+          "text": {
+            "content": "reservations",
+            "beginOffset": 223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "query optimization",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033008322,
+      "mentions": [
+        {
+          "text": {
+            "content": "query optimization",
+            "beginOffset": 239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "team",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012871949,
+      "mentions": [
+        {
+          "text": {
+            "content": "team",
+            "beginOffset": 153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "42"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "42",
+            "beginOffset": 113
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

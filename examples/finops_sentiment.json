@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "The finance team is concerned because Compute Engine spend exceeded the monthly forecast, but the new rightsizing plan should reduce waste and improve budget confidence.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
+}

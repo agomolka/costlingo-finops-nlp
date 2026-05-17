@@ -1,0 +1,14 @@
+FinOps sentiment summary
+========================
+
+Document score: -0.2
+Document magnitude: 0.2
+Language: en
+
+Sentence-level sentiment:
+- score=-0.2, magnitude=0.2: The finance team is concerned because Compute Engine spend exceeded the monthly forecast, but the new rightsizing plan should reduce waste and improve budget confidence.
+
+Interpretation guide:
+- Negative score can indicate concern, complaints, risk, or urgency.
+- Positive score can indicate confidence, improvement, or satisfaction.
+- Magnitude shows emotional strength, not direction.

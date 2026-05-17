@@ -1,0 +1,7 @@
+entity	type	salience	sentiment_score	sentiment_magnitude
+performance	OTHER	0.4206223	-0.4	0.4
+BigQuery	OTHER	0.2395048	-0.3	0.3
+storage costs	OTHER	0.15867302	-0.2	0.2
+Engine instances	OTHER	0.10570069	-0.4	0.4
+use discount recommendation	OTHER	0.03895311	0.5	0.5
+money	OTHER	0.036546085	-0.4	0.4
