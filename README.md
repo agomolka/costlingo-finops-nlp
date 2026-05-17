@@ -635,58 +635,6 @@ costlingo-finops-nlp/
 ```
 
 ---
-
-## What to commit
-
-Commit:
-
-```text
-README.md
-EntityAndSentimentAnalysis.sh
-examples/*.example.json
-examples/*.example.tsv
-.gitignore
-LICENSE
-```
-
-Do not commit:
-
-```text
-API keys
-.env files
-request.json with private text
-real company tickets
-billing exports
-customer names
-vendor contracts
-terminal logs containing secrets
-```
-
----
-
-## Recommended `.gitignore`
-
-```gitignore
-# Secrets
-.env
-*.env
-api_key.txt
-credentials.json
-service-account*.json
-
-# Runtime files
-request.json
-result.json
-finops-nl-api-results/
-
-# OS/editor noise
-.DS_Store
-.vscode/
-.idea/
-```
-
----
-
 ## Install optional tools
 
 The script works with Bash and `curl`.
@@ -699,15 +647,6 @@ Debian / Ubuntu:
 sudo apt-get update
 sudo apt-get install -y jq
 ```
-
-Then review TSV summaries:
-
-```bash
-column -t -s $'\t' finops-nl-api-results/finops_entities.tsv
-column -t -s $'\t' finops-nl-api-results/finops_entity_sentiment.tsv
-column -t -s $'\t' finops-nl-api-results/finops_syntax_tokens.tsv
-```
-
 ---
 
 ## Practical FinOps extensions
@@ -845,22 +784,6 @@ Use this project to answer:
 5. Which verbs represent FinOps actions?
 6. Did multilingual entity extraction preserve the important cost concepts?
 7. Where did generic NLP fail to understand cloud-specific terms?
-
----
-
-## Project name
-
-Suggested GitHub repo name:
-
-```text
-costlingo-finops-nlp
-```
-
-Tagline:
-
-```text
-Turn cloud cost chatter into FinOps signals with Google Cloud Natural Language API.
-```
 
 ---
 
